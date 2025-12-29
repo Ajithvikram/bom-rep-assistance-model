@@ -1,1 +1,1 @@
-# bom-rep-assistance-model
+# bom-rep-assistance
